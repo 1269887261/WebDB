@@ -45,7 +45,7 @@ public class ManageStudentPageServlet extends HttpServlet {
             req.getSession().setAttribute("additionList", additionList);
         } else {
             System.out.println("fuck");
-            System.out.println("123");
+            System.out.println("1234");
 
         }
 //        req.getRequestDispatcher("/manage/manageStudentPage.jsp").forward(req, resp);
